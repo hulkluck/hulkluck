@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hulkluck
+- 👋 Hi, I’m Anton Bek (@Hulkluck)
 - 👀 I’m interested in programming on python
 - 🌱 I’m currently learning all time
 - 💞️ I’m looking to collaborate on all for big monye =)
